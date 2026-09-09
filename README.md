@@ -1,2 +1,2 @@
 # practice
-the repository is created for learning and practicing GitHub
+The repository is created to learn and practice GitHub
